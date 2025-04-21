@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Michael
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning: React, Nodejs, MSSQL, PowerBI
 - 😄 Pronouns:They/Them
 - ⚡ Fun fact: I enjoy Mountain Biking in my freetime
